@@ -1,1 +1,1 @@
-# .github
+# Finnish Climate Modelling Community
